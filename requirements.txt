@@ -1,0 +1,3 @@
+# Runtime — none (stdlib only: tkinter, subprocess, threading)
+# Build tools
+py2app>=0.28.0
